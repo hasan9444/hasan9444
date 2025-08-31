@@ -1,7 +1,41 @@
-- 👋 Hi, I’m Hasan Ahmed with almost 5 year development experience
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning different technologies like vuejs. As these JS languages growing rapidly in this development world
-- 📫 You can reach me through email address at <a href="emailto:hasanahmed9444@gmail.com">hasanahmed9444@gmail.com</a>
+# 👋 Hi, I’m Hasan Ahmed  
+
+I have **almost 9 years of development experience**, including:  
+- **6 years** in **Full Stack Development**  
+- **3 years** as a **Salesforce Consultant**  
+
+---
+
+## 👀 Interests  
+I’m passionate about **Full Stack Development** and enjoy working across both frontend and backend technologies.  
+
+---
+
+## 🌱 Currently Learning  
+Exploring modern **frameworks** like:  
+- Vue.js  
+- AngularJS
+- Blazor
+
+These technologies are growing rapidly and I’m always keen to keep my skills up to date.  
+
+---
+
+## 💼 Experience  
+- Currently working at **Tectonic** as a **Salesforce Consultant**.  
+- Also engaged in **freelance Full Stack development**, building web applications using:  
+  - **Blazor**  
+  - **.NET API**  
+
+I have developed multiple projects both in professional roles and as a freelancer.  
+
+---
+
+## 📫 Contact Me  
+You can reach me at:  
+📧 [hasanahmed9444@gmail.com](mailto:hasanahmed9444@gmail.com)  
+
+---
 
 <!---
 hasan9444/hasan9444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
