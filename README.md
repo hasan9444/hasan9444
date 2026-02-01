@@ -2,7 +2,7 @@
 
 I have **almost 9 years of development experience**, including:  
 - **6 years** in **Full Stack Development**  
-- **3 years** as a **Salesforce Consultant**  
+- **More than 3 years** as a **Salesforce Consultant**  
 
 ---
 
@@ -25,7 +25,10 @@ These technologies are growing rapidly and I’m always keen to keep my skills u
 - Currently working at **Tectonic** as a **Salesforce Consultant**.  
 - Also engaged in **freelance Full Stack development**, building web applications using:  
   - **Blazor**  
-  - **.NET API**  
+  - **.NET API**
+  - VueJS
+  - AngularJS
+  - MAUI/Xamarin
 
 I have developed multiple projects both in professional roles and as a freelancer.  
 
