@@ -22,7 +22,7 @@ These technologies are growing rapidly and I’m always keen to keep my skills u
 ---
 
 ## 💼 Experience  
-- Currently working at **Tectonic** as a **Salesforce Consultant**.  
+- Currently working at **Tectonic** as a **Senior Consultant**.  
 - Also engaged in **freelance Full Stack development**, building web applications using:  
   - **Blazor**  
   - **.NET API**
