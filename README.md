@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hasan Ahmed  
 
-I have **almost 9 years of development experience**, including:  
+I have **more than 9 years of development experience**, including:  
 - **6 years** in **Full Stack Development**  
 - **More than 3 years** as a **Salesforce Consultant**  
 
